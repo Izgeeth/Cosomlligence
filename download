@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local datasets (do not commit the full dataset)
+data/
+datasets/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
